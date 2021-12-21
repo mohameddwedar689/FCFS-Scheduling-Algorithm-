@@ -49,7 +49,5 @@ Now we will see the turnaround time of each process, total turnaround time and a
 
 ​							=        46     /       3      =  15.33
 
-**The Output Would Be Like**
 
-![Output](C:\Users\Mohamed\Desktop\FCFS\image.PNG)
 
